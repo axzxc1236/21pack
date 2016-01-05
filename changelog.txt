@@ -1,16 +1,16 @@
-�p�n���o�̷s�O�Ҳե]  �в��r��o���� http://home.gamer.com.tw/creationDetail.php?sn=3060458
+﻿如要取得最新板模組包  請移駕到發布文 http://home.gamer.com.tw/creationDetail.php?sn=3060458
 
 1.1.0:
-  �ܩ���A��h���Ҳ�(�M�@�諸�Ҳէ�s)
-  ��@�F�����Ҳե]��s���\��
-  ��J�F�W�@���ѰO��J��Chunk Animator�]�w��
-  --����  �ߤW�n�ª�
+  很明顯，更多的模組(和一堆的模組更新)
+  實作了偵測模組包更新的功能
+  放入了上一版忘記放入的Chunk Animator設定檔
+  --媽阿  晚上好黑阿
   
   
   
 /*
 To do:
-  1.(�i��|�������O��)��HQM�s�@�Ҳձо�
-  2.�s�W��h���Ҳ�
+  1.(可能會有但不保證)用HQM製作模組教學
+  2.新增更多的模組
   ???
 */
